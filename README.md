@@ -1,7 +1,7 @@
 "# hdl-codes" <br>
 Collection of various Verilog codes categorised based on modelling.<br>
 
-<h1>Codes part of project_behavioral:</h1>
+<h1>Codes as part of project_behavioral:</h1>
 <p>
 1. 2X1 MUX (Using if-else and case statement)<br>
 2. 4X1 MUX (Using if-else and case statement)<br>
@@ -25,7 +25,7 @@ Collection of various Verilog codes categorised based on modelling.<br>
 20. Positive Edge Triggered 3-bit Serial In Serial Out Register<br></p>
 
 
-<h1>Codes part of project_structural:</h1>
+<h1>Codes as part of project_structural:</h1>
 <p>
 1. 2X1 MUX<br>
 2. 2X4 Decoder<br>
@@ -34,7 +34,7 @@ Collection of various Verilog codes categorised based on modelling.<br>
 5. 3 Bit Ripple Carry Adder<br>
 </p>
 
-<h1>Codes part of project_dataflow:</h1>
+<h1>Codes as part of project_dataflow:</h1>
 <p>
 1. Half Adder<br>
 2. Full Adder<br>
