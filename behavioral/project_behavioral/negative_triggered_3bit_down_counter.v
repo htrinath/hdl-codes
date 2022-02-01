@@ -22,7 +22,7 @@ module negative_triggered_3bit_down_counter(q,clk,rst);
 input clk,rst;
 output reg [2:0]q;
 initial q=3'b111;
-always @(negedge clk, negedge rst)
+always @(posedge clk, negedge rst)
 if(rst==0)
 q=3'b111;
 else

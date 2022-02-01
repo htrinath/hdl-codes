@@ -1,5 +1,5 @@
 ISim log file
-Running: D:\xilinx\HDL Coding\dataflow\project_dataflow\full_subtractor_testbench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/xilinx/HDL Coding/dataflow/project_dataflow/full_subtractor_testbench_isim_beh.wdb 
+Running: D:\xilinx\HDL Coding\dataflow\project_dataflow\full_adde_testbench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/xilinx/HDL Coding/dataflow/project_dataflow/full_adde_testbench_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -11,11 +11,12 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-                   0diff=0,bout=0,a=0,b=0,bin=0
-                  10diff=1,bout=1,a=0,b=0,bin=1
-                  20diff=1,bout=1,a=0,b=1,bin=0
-                  30diff=0,bout=1,a=0,b=1,bin=1
-                  40diff=1,bout=0,a=1,b=0,bin=0
-                  50diff=0,bout=0,a=1,b=0,bin=1
-                  60diff=0,bout=0,a=1,b=1,bin=0
-                  70diff=1,bout=1,a=1,b=1,bin=1
+                   0a=0,b=0,cin=0,s=0,cout=0
+                  10a=0,b=0,cin=1,s=1,cout=0
+                  20a=0,b=1,cin=0,s=1,cout=0
+                  30a=0,b=1,cin=1,s=0,cout=1
+                  40a=1,b=0,cin=0,s=1,cout=0
+                  50a=1,b=0,cin=1,s=0,cout=1
+                  60a=1,b=1,cin=0,s=0,cout=1
+                  70a=1,b=1,cin=1,s=1,cout=1
+Stopped at time : 80 ns : File "D:/xilinx/HDL Coding/dataflow/project_dataflow/full_adde_testbench.v" Line 88

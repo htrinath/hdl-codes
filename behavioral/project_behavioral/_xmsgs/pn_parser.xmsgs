@@ -8,7 +8,7 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/xilinx/HDL Coding/behavioral/project_behavioral/negative_triggered_3bit_down_counter.v&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/xilinx/HDL Coding/behavioral/project_behavioral/positive_triggered_siso_3bit_testbench.v&quot; into library work</arg>
 </msg>
 
 </messages>
