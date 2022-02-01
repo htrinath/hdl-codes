@@ -1,0 +1,3 @@
+verilog work "positive_triggered_sipo_register_3bit.v"
+verilog work "positive_triggered_sipo_register_3bit_testbench.v"
+verilog work "D:/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

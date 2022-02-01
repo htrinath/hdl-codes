@@ -1,0 +1,29 @@
+Command line:
+   decoder_2X4_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54647
+
+Fri Jan 28 20:31:43 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.02 Meg
+
+ Total Signals          : 20
+ Total Nets             : 22
+ Total Signal Drivers   : 14
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 105
+Total Line Count : 36
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5150.02 Meg
+
+Fri Jan 28 20:31:51 2022
+

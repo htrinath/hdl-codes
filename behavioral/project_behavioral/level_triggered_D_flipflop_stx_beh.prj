@@ -1,0 +1,2 @@
+verilog isim_temp "level_triggered_D_flipflop.v"
+verilog isim_temp "D:/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

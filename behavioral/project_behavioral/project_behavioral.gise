@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="project_behavioral.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="bcd_to_7segment_using_case_statement_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_1bit_using_case_statement_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator_1bit_using_case_statement_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_1bit_using_if_else_block_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator_1bit_using_if_else_block_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="comparator_2bit_using_if_else_block_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="comparator_2bit_using_if_else_block_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_2X4_using_case_statement_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decoder_2X4_using_case_statement_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_2X4_using_case_statement_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_2X4_using_if_else_block_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="decoder_2X4_using_if_else_block_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder_2X4_using_if_else_block_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="level_triggered_D_flipflop.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="level_triggered_D_flipflop.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="level_triggered_D_flipflop.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="level_triggered_D_flipflop_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="level_triggered_d_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="level_triggered_d_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_2X1_using_case_statement_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mux_2X1_using_case_statement_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_2X1_using_case_statement_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_2X1_using_if_else_block_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mux_2X1_using_if_else_block_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_4X1_using_case_statement_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mux_4X1_using_case_statement_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_4X1_using_if_else_block.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="mux_4X1_using_if_else_block.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="mux_4X1_using_if_else_block.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="mux_4X1_using_if_else_block_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="mux_4X1_using_if_else_block_testbench_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="negative_edge_triggered_d_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="negative_triggered_jk_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="negative_triggered_jk_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="negative_triggered_t_flipflop_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="negative_triggered_t_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="negative_triggered_t_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_edge_triggered_d_flipflop_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_edge_triggered_d_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_edge_triggered_d_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_3bit_down_counter_testbench_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_3bit_up_counter_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_3bit_up_counter_testbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_jk_flipflop_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_jk_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_jk_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_pipo_3bit_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_sipo_register_3bit_testbench_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_sipo_register_3bit_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="positive_triggered_sipo_register_3bit_testbench_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_siso_3bit_testbench_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_siso_3bit_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="positive_triggered_siso_3bit_testbench_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="positive_triggered_t_flipflop_testbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="positive_triggered_t_flipflop_testbench_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1643614685" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1643614685">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708118" xil_pn:in_ck="-8408037872613388060" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1643708118">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="bcd_to_7segment_using_case_statement.v"/>
+      <outfile xil_pn:name="bcd_to_7segment_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_case_statement.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_if_else_block.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="comparator_2bit_using_if_else_block.v"/>
+      <outfile xil_pn:name="comparator_2bit_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_case_statement.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_if_else_block.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="full_adder.v"/>
+      <outfile xil_pn:name="full_adder_testbench.v"/>
+      <outfile xil_pn:name="half_adder.v"/>
+      <outfile xil_pn:name="half_adder_testbench.v"/>
+      <outfile xil_pn:name="level_triggered_D_flipflop.v"/>
+      <outfile xil_pn:name="level_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="mux_2X1_using_case_statement.v"/>
+      <outfile xil_pn:name="mux_2X1_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="mux_2X1_using_if_else_block.v"/>
+      <outfile xil_pn:name="mux_2X1_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="mux_4X1_using_case_statement.v"/>
+      <outfile xil_pn:name="mux_4X1_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="mux_4X1_using_if_else_block.v"/>
+      <outfile xil_pn:name="mux_4X1_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="negative_edge_jk_flipflop.v"/>
+      <outfile xil_pn:name="negative_edge_triggered_d_flipflop.v"/>
+      <outfile xil_pn:name="negative_edge_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="negative_triggered_3bit_down_counter.v"/>
+      <outfile xil_pn:name="negative_triggered_jk_flipflop_testbench.v"/>
+      <outfile xil_pn:name="negative_triggered_t_flipflop.v"/>
+      <outfile xil_pn:name="negative_triggered_t_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_edge_triggered_d_flipflop.v"/>
+      <outfile xil_pn:name="positive_edge_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_down_counter_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_up_counter.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_up_counter_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_jk_flipflop.v"/>
+      <outfile xil_pn:name="positive_triggered_jk_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_pipo_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_pipo_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_sipo_register_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_sipo_register_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_t_flipflop.v"/>
+      <outfile xil_pn:name="positive_triggered_t_flipflop_testbench.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708038" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2590656685940155917" xil_pn:start_ts="1643708038">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708038" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3649731711554690987" xil_pn:start_ts="1643708038">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1643614948" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="7714808994091275124" xil_pn:start_ts="1643614948">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708118" xil_pn:in_ck="-8408037872613388060" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1643708118">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="bcd_to_7segment_using_case_statement.v"/>
+      <outfile xil_pn:name="bcd_to_7segment_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_case_statement.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_if_else_block.v"/>
+      <outfile xil_pn:name="comparator_1bit_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="comparator_2bit_using_if_else_block.v"/>
+      <outfile xil_pn:name="comparator_2bit_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_case_statement.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_if_else_block.v"/>
+      <outfile xil_pn:name="decoder_2X4_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="full_adder.v"/>
+      <outfile xil_pn:name="full_adder_testbench.v"/>
+      <outfile xil_pn:name="half_adder.v"/>
+      <outfile xil_pn:name="half_adder_testbench.v"/>
+      <outfile xil_pn:name="level_triggered_D_flipflop.v"/>
+      <outfile xil_pn:name="level_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="mux_2X1_using_case_statement.v"/>
+      <outfile xil_pn:name="mux_2X1_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="mux_2X1_using_if_else_block.v"/>
+      <outfile xil_pn:name="mux_2X1_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="mux_4X1_using_case_statement.v"/>
+      <outfile xil_pn:name="mux_4X1_using_case_statement_testbench.v"/>
+      <outfile xil_pn:name="mux_4X1_using_if_else_block.v"/>
+      <outfile xil_pn:name="mux_4X1_using_if_else_block_testbench.v"/>
+      <outfile xil_pn:name="negative_edge_jk_flipflop.v"/>
+      <outfile xil_pn:name="negative_edge_triggered_d_flipflop.v"/>
+      <outfile xil_pn:name="negative_edge_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="negative_triggered_3bit_down_counter.v"/>
+      <outfile xil_pn:name="negative_triggered_jk_flipflop_testbench.v"/>
+      <outfile xil_pn:name="negative_triggered_t_flipflop.v"/>
+      <outfile xil_pn:name="negative_triggered_t_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_edge_triggered_d_flipflop.v"/>
+      <outfile xil_pn:name="positive_edge_triggered_d_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_down_counter_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_up_counter.v"/>
+      <outfile xil_pn:name="positive_triggered_3bit_up_counter_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_jk_flipflop.v"/>
+      <outfile xil_pn:name="positive_triggered_jk_flipflop_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_pipo_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_pipo_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_sipo_register_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_sipo_register_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit.v"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit_testbench.v"/>
+      <outfile xil_pn:name="positive_triggered_t_flipflop.v"/>
+      <outfile xil_pn:name="positive_triggered_t_flipflop_testbench.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708120" xil_pn:in_ck="-8408037872613388060" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="4765665337381840642" xil_pn:start_ts="1643708118">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit_testbench_beh.prj"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit_testbench_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1643708120" xil_pn:in_ck="7903930946301680318" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3593885781875538629" xil_pn:start_ts="1643708120">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="positive_triggered_siso_3bit_testbench_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

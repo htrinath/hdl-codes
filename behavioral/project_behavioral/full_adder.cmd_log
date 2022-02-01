@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/xilinx/HDL Coding/behavioral/project/full_adder.xst" -ofn "D:/xilinx/HDL Coding/behavioral/project/full_adder.syr" 

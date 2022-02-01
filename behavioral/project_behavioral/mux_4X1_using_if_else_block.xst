@@ -1,0 +1,5 @@
+set -tmpdir "D:/xilinx/HDL Coding/behavioral/project_behavioral/xst/projnav.tmp"
+set -xsthdpdir "D:/xilinx/HDL Coding/behavioral/project_behavioral/xst"
+elaborate
+-ifn mux_4X1_using_if_else_block.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/xilinx/HDL Coding/dataflow/project_dataflow/full_adde_testbench_isim_beh.exe" -prj "D:/xilinx/HDL Coding/dataflow/project_dataflow/full_adde_testbench_beh.prj" "work.full_adde_testbench" "work.glbl" 

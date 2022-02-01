@@ -1,0 +1,29 @@
+Command line:
+   positive_triggered_sipo_register_3bit_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54486
+
+Tue Feb 01 14:42:28 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.04 Meg
+
+ Total Signals          : 17
+ Total Nets             : 19
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 105
+Total Line Count : 48
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5464.61 Meg
+
+Tue Feb 01 14:43:06 2022
+

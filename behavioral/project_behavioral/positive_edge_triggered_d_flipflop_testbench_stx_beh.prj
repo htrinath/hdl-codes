@@ -1,0 +1,3 @@
+verilog isim_temp "positive_edge_triggered_d_flipflop.v"
+verilog isim_temp "positive_edge_triggered_d_flipflop_testbench.v"
+verilog isim_temp "D:/xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

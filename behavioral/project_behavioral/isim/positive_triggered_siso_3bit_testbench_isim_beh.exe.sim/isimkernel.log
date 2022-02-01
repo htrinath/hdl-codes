@@ -1,0 +1,29 @@
+Command line:
+   positive_triggered_siso_3bit_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54553
+
+Tue Feb 01 15:05:21 2022
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 5150 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 103
+Total Line Count : 45
+
+ Total Simulation Time: 0.015625 sec
+
+ Current Memory Usage: 5464.57 Meg
+
+Tue Feb 01 15:05:59 2022
+

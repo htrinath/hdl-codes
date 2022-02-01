@@ -1,0 +1,5 @@
+set -tmpdir "D:/xilinx/HDL Coding/behavioral/project_behavioral/xst/projnav.tmp"
+set -xsthdpdir "D:/xilinx/HDL Coding/behavioral/project_behavioral/xst"
+elaborate
+-ifn level_triggered_D_flipflop.prj
+-ifmt mixed

@@ -1,0 +1,29 @@
+Command line:
+   adder_3_bit_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54661
+
+Fri Jan 28 20:34:00 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.02 Meg
+
+ Total Signals          : 47
+ Total Nets             : 36
+ Total Signal Drivers   : 23
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 25
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 123
+Total Line Count : 44
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 5464.59 Meg
+
+Fri Jan 28 20:34:55 2022
+
