@@ -32,10 +32,12 @@ Collection of various Verilog codes categorised based on modelling.<br>
 3. Half Adder<br>
 4. Full Adder<br>
 5. 3 Bit Ripple Carry Adder<br>
+6. Full Subtractor<br>
 </p>
 
 <h1>Codes as part of project_dataflow:</h1>
 <p>
 1. Half Adder<br>
 2. Full Adder<br>
+3. Full Subtractor<br>
 </p>

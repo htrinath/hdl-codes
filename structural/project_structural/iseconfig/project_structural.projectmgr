@@ -73,22 +73,18 @@
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>
          <ClosedNodesVersion>2</ClosedNodesVersion>
-         <ClosedNode>/adder_3_bit_testbench D:|xilinx|HDL Coding|structural|project_structural|adder_3_bit_testbench.v</ClosedNode>
-         <ClosedNode>/decoder_2X4_testbench D:|xilinx|HDL Coding|structural|project_structural|decoder_2X4_testbench.v</ClosedNode>
-         <ClosedNode>/full_adder_testbench D:|xilinx|HDL Coding|structural|project_structural|full_adder_testbench.v</ClosedNode>
+         <ClosedNode>/adder_3_bit_testbench D:|xilinx|HDL Coding|structural|project_structural|adder_3_bit_testbench.v/uut - adder_3_bit</ClosedNode>
          <ClosedNode>/full_adder_using_ha D:|xilinx|HDL Coding|structural|project_structural|full_adder_using_ha.v</ClosedNode>
-         <ClosedNode>/full_adder_using_ha_testbench D:|xilinx|HDL Coding|structural|project_structural|full_adder_using_ha_testbench.v</ClosedNode>
-         <ClosedNode>/half_adder_testbench D:|xilinx|HDL Coding|structural|project_structural|half_adder_testbench.v</ClosedNode>
-         <ClosedNode>/mux_2X1_testbench D:|xilinx|HDL Coding|structural|project_structural|mux_2X1_testbench.v</ClosedNode>
+         <ClosedNode>/full_adder_using_ha_testbench D:|xilinx|HDL Coding|structural|project_structural|full_adder_using_ha_testbench.v/uut - full_adder_using_ha</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>adder_3_bit_testbench (D:/xilinx/HDL Coding/structural/project_structural/adder_3_bit_testbench.v)</SelectedItem>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >3</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000002a9000000020000000000000000000000000200000064ffffffff000000810000000300000002000002a90000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>adder_3_bit_testbench (D:/xilinx/HDL Coding/structural/project_structural/adder_3_bit_testbench.v)</CurrentItem>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -96,13 +92,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014e0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
       <ClosedNodes>

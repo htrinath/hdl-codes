@@ -68,6 +68,9 @@
     <transform xil_pn:end_ts="1643382236" xil_pn:in_ck="8143403848056884654" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1643382236">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="adder_3_bit.v"/>
       <outfile xil_pn:name="adder_3_bit_testbench.v"/>
       <outfile xil_pn:name="decoder_2X4.v"/>
@@ -96,6 +99,7 @@
     <transform xil_pn:end_ts="1643382236" xil_pn:in_ck="8143403848056884654" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1643382236">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="adder_3_bit.v"/>
       <outfile xil_pn:name="adder_3_bit_testbench.v"/>
       <outfile xil_pn:name="decoder_2X4.v"/>
@@ -112,6 +116,7 @@
     <transform xil_pn:end_ts="1643382239" xil_pn:in_ck="8143403848056884654" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-6501842838025147640" xil_pn:start_ts="1643382236">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="adder_3_bit_testbench_beh.prj"/>
@@ -124,6 +129,7 @@
     <transform xil_pn:end_ts="1643382239" xil_pn:in_ck="8217783479862707126" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6804620265759081781" xil_pn:start_ts="1643382239">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="adder_3_bit_testbench_isim_beh.wdb"/>

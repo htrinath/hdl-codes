@@ -45,6 +45,9 @@
     <transform xil_pn:end_ts="1643377448" xil_pn:in_ck="8895260305052351028" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1643377448">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
       <outfile xil_pn:name="full_adde_testbench.v"/>
       <outfile xil_pn:name="full_adder.v"/>
       <outfile xil_pn:name="half_adder.v"/>
@@ -65,6 +68,7 @@
     <transform xil_pn:end_ts="1643377451" xil_pn:in_ck="8895260305052351028" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1643377451">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="full_adde_testbench.v"/>
       <outfile xil_pn:name="full_adder.v"/>
       <outfile xil_pn:name="half_adder.v"/>
@@ -73,6 +77,7 @@
     <transform xil_pn:end_ts="1643377453" xil_pn:in_ck="8895260305052351028" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="8164367837969977064" xil_pn:start_ts="1643377451">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="full_adde_testbench_beh.prj"/>
@@ -85,6 +90,7 @@
     <transform xil_pn:end_ts="1643377454" xil_pn:in_ck="-2284200604145639178" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-107706797321896725" xil_pn:start_ts="1643377453">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="full_adde_testbench_isim_beh.wdb"/>
